@@ -3,7 +3,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 mi_correo = 'fernaluengo@gmail.com'
-mi_pass = 'kups ghsh penq vjws'
+mi_pass = 'contrasena gmail'
 receptor = 'codeferna@gmail.com'
 message = MIMEMultipart()
 message['From'] = mi_correo
